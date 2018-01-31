@@ -1,6 +1,6 @@
 # Run [syncthing](https://syncthing.net) from a docker container
 
-The service is not centralized as in today's cloud systems, but communication is direct between devices. This service is pre-licensed and is very user-friendly. This service works on the ubuntu/amd64 architecture. There is no need for passwords and usernames. All is configured correctly.
+The service is not centralized as in today's cloud systems, but communication is direct between devices. This service is pre-licensed and is very user-friendly. This service works on the resin/rpi-raspbian:jessie(ARM) architecture. There is no need for passwords and usernames. All is configured correctly.
 
 ## Install
 ```sh
